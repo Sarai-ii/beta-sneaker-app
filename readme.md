@@ -4,7 +4,7 @@
 #### Sarai Thomas
 1. Research if there's sneaker api/ api.json
 1. style.css
-1. index.js
+1. index.html
 1. second.js
 #### Silis Kleemoff
 1. script.js 
