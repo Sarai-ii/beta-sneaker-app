@@ -2,7 +2,7 @@
 
 ### Roles
 #### Sarai Thomas
-1. research if the there's sneaker api/ api.json
+1. Research if there's sneaker api/ api.json
 1. style.css
 1. index.js
 1. second.js
